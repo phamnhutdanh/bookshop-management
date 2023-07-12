@@ -1,0 +1,245 @@
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\Database.mdf
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\Database_log.ldf
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\BookShop.exe
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\BookShop.pdb
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\EntityFramework.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\EntityFramework.xml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.AssemblyReference.cache
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Login.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\MainWindow.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\BillPage.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\CustomerPage.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\Home_Page.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\PrintPreview.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\App.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop_Content.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop_MarkupCompile.cache
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop_MarkupCompile.lref
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Login.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\MainWindow.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\BillPage.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\CustomerPage.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\EmployeePage.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\Home_Page.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Pages\ProductPage.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\PrintPreview.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.g.resources
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.exe
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\BookShop.pdb
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\MaterialDesignColors.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\MaterialDesignColors.pdb
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\App.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\LiveCharts.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\LiveCharts.pdb
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\LiveCharts.xml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\stdole.dll
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Window1.g.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\obj\Debug\Window1.baml
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\ModelDataSet.xsd
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xsd
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\ModelDataSet.Designer.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.Designer.cs
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\ModelDataSet.xsc
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\ModelDataSet.xss
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xsc
+C:\Users\win 10\OneDrive\Desktop\publish\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xss
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\ModelDataSet.xsd
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xsd
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\Database.mdf
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\Database_log.ldf
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\ModelDataSet.Designer.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.Designer.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\ModelDataSet.xsc
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\ModelDataSet.xss
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xsc
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xss
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\BookShop.exe.config
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\BookShop.exe
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\BookShop.pdb
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.Shared.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\EntityFramework.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\LiveCharts.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\MaterialDesignColors.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\ShockwaveFlashObjects.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\stdole.dll
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\EntityFramework.xml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\LiveCharts.pdb
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\LiveCharts.xml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.pdb
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.xml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\MaterialDesignColors.pdb
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.AssemblyReference.cache
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Login.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\MainWindow.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\BillPage.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\CustomerPage.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\EmployeePage.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\Home_Page.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\ProductPage.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\PrintPreview.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Window1.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\App.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop_Content.g.cs
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop_MarkupCompile.cache
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop_MarkupCompile.lref
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\App.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Login.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\MainWindow.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\BillPage.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\CustomerPage.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\EmployeePage.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\Home_Page.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Pages\ProductPage.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\PrintPreview.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\Window1.baml
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop.g.resources
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop.exe
+F:\Năm 2 HK1\Lập trình trực quan\BaiTapThucHanh\Project\QLBH\BookShop\obj\Debug\BookShop.pdb
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xsd
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.Designer.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xsc
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\Report\Dataset\DataSet1.xss
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\BookShop.exe
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\BookShop.pdb
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\EntityFramework.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\LiveCharts.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\MaterialDesignColors.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\stdole.dll
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\EntityFramework.xml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\LiveCharts.pdb
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\LiveCharts.xml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\MaterialDesignColors.pdb
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Login.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\MainWindow.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\BillPage.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\CustomerPage.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\Home_Page.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\PrintPreview.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Window1.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\App.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop_Content.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop_MarkupCompile.cache
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop_MarkupCompile.lref
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\App.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Login.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\MainWindow.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\BillPage.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\CustomerPage.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\EmployeePage.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\Home_Page.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\ProductPage.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\PrintPreview.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Window1.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.g.resources
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.exe
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.pdb
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\AddToBillPage.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\AddToBillPage.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\Database.mdf
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\bin\Debug\Database_log.ldf
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\SuaThongTin.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\SuaThongTin.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\DoiMatKhau.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\DoiMatKhau.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\_window_edit\ChinhSuaNhanVien.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\_window_edit\ChinhSuaNhanVien.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\_window_edit\ChinhSuaSach.g.cs
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\Pages\_window_edit\ChinhSuaSach.baml
+C:\Users\win 10\Downloads\Compressed\Project\QLBH\BookShop\obj\Debug\BookShop.csproj.AssemblyReference.cache

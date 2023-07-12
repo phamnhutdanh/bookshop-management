@@ -1,0 +1,79 @@
+E:\Cs\Project\QLBH\Form\bin\Release\Form.exe.config
+E:\Cs\Project\QLBH\Form\bin\Release\Form.exe
+E:\Cs\Project\QLBH\Form\bin\Release\Form.pdb
+E:\Cs\Project\QLBH\Form\bin\Release\EntityFramework.dll
+E:\Cs\Project\QLBH\Form\bin\Release\EntityFramework.SqlServer.dll
+E:\Cs\Project\QLBH\Form\bin\Release\EntityFramework.xml
+E:\Cs\Project\QLBH\Form\bin\Release\EntityFramework.SqlServer.xml
+E:\Cs\Project\QLBH\Form\obj\Release\CTHD.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\Login.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\MainWindow.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\BillPage.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\CustomerPage.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\EmployeePage.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\Home_Page.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\ProductPage.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\PrintPreview.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\App.g.cs
+E:\Cs\Project\QLBH\Form\obj\Release\Form_MarkupCompile.cache
+E:\Cs\Project\QLBH\Form\obj\Release\Form_MarkupCompile.lref
+E:\Cs\Project\QLBH\Form\obj\Release\CTHD.baml
+E:\Cs\Project\QLBH\Form\obj\Release\Login.baml
+E:\Cs\Project\QLBH\Form\obj\Release\MainWindow.baml
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\BillPage.baml
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\CustomerPage.baml
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\EmployeePage.baml
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\Home_Page.baml
+E:\Cs\Project\QLBH\Form\obj\Release\Pages\ProductPage.baml
+E:\Cs\Project\QLBH\Form\obj\Release\PrintPreview.baml
+E:\Cs\Project\QLBH\Form\obj\Release\Form.g.resources
+E:\Cs\Project\QLBH\Form\obj\Release\Form.Properties.Resources.resources
+E:\Cs\Project\QLBH\Form\obj\Release\Form.csproj.GenerateResource.cache
+E:\Cs\Project\QLBH\Form\obj\Release\Form.csproj.CoreCompileInputs.cache
+E:\Cs\Project\QLBH\Form\obj\Release\Form.csproj.CopyComplete
+E:\Cs\Project\QLBH\Form\obj\Release\Form.exe
+E:\Cs\Project\QLBH\Form\obj\Release\Form.pdb
+E:\Cs\Project\QLBH\Form\obj\Release\Form.csproj.AssemblyReference.cache
+E:\Cs\Project\QLBH\Form\bin\Release\QuanLyBanHangDataSet.Designer.cs
+E:\Cs\Project\QLBH\Form\bin\Release\QuanLyBanHangDataSet.xsc
+E:\Cs\Project\QLBH\Form\bin\Release\QuanLyBanHangDataSet.xsd
+E:\Cs\Project\QLBH\Form\bin\Release\QuanLyBanHangDataSet.xss
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\Database.mdf
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\Database_log.ldf
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\Form.exe.config
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\Form.exe
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\Form.pdb
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\EntityFramework.dll
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\EntityFramework.xml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.csproj.AssemblyReference.cache
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\CTHD.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Login.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\MainWindow.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\BillPage.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\CustomerPage.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\EmployeePage.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\Home_Page.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\ProductPage.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\PrintPreview.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\App.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form_Content.g.cs
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form_MarkupCompile.cache
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form_MarkupCompile.lref
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\CTHD.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Login.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\MainWindow.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\BillPage.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\CustomerPage.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\EmployeePage.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\Home_Page.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Pages\ProductPage.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\PrintPreview.baml
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.g.resources
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.Properties.Resources.resources
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.csproj.GenerateResource.cache
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.csproj.CoreCompileInputs.cache
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.csproj.CopyComplete
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.exe
+C:\Users\win 10\OneDrive\Desktop\Project\QLBH\Form\obj\Release\Form.pdb

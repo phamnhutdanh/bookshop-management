@@ -1,0 +1,302 @@
+﻿<Page x:Class="BookShop.Pages.EmployeePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BookShop.Pages"
+      mc:Ignorable="d" Loaded="Page_Loaded"
+      Title="EmployeePage"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="566" d:DesignWidth="1000"
+      TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+       Background="{x:Null}">
+
+    <Page.Resources>
+        <!--//text block style//-->
+        <Style TargetType="TextBlock" x:Key="txb_Style">
+            <Setter Property="FontSize" Value="20"></Setter>
+            <Setter Property="FontWeight" Value="Medium"></Setter>
+            <Setter Property="Margin" Value="0,5,0,0"></Setter>
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+            <Setter Property="Foreground" Value="WhiteSmoke"></Setter>
+
+        </Style>
+        <!--//text box style//-->
+        <Style TargetType="TextBox" x:Key="txt_Style">
+            <Setter Property="Width" Value="150"></Setter>
+            <Setter Property="Height" Value="20"></Setter>
+            <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+            <Setter Property="Margin" Value="0,0,0,0"></Setter>
+            <Setter Property="FontFamily" Value="Consolas"></Setter>
+            <Setter Property="Background" Value="#F4F5F3"></Setter>
+            <Setter Property="Foreground" Value="#FF061A38"></Setter>
+            <Setter Property="BorderBrush" Value="Black"></Setter>
+            <Setter Property="BorderThickness" Value="1.5"></Setter>
+        </Style>
+
+        <!--//date picker//-->
+        <Style TargetType="DatePicker" x:Key="style_DatePicker">
+            <Setter Property="Width" Value="150"></Setter>
+            <Setter Property="Height" Value="20"></Setter>
+            <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+            <Setter Property="SelectedDateFormat" Value="Short"></Setter>
+            <Setter Property="FontFamily" Value="Consolas"></Setter>
+            <Setter Property="Background" Value="#F4F5F3"></Setter>
+            <Setter Property="Foreground" Value="#FF061A38"></Setter>
+            <Setter Property="BorderBrush" Value="Black"></Setter>
+            <Setter Property="BorderThickness" Value="1.5"></Setter>
+        </Style>
+
+        <!--//button style//-->
+        <Style TargetType="Button" x:Key="style_Btn">
+            <Setter Property="Width" Value="100"></Setter>
+            <Setter Property="Height" Value="20"></Setter>
+            <Setter Property="BorderThickness" Value="0"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+            <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+            <Setter Property="Background" Value="DarkRed"></Setter>
+            <Setter Property="Foreground" Value="White"></Setter>
+            <Setter Property="FontSize" Value="12"></Setter>
+            <Setter Property="BorderBrush" Value="#FFDEDE7C"></Setter>
+            <Setter Property="BorderThickness" Value="1.5"></Setter>
+            <Setter Property="FontFamily" Value="Font/#iCiel Cadena"></Setter>
+        </Style>
+
+    </Page.Resources>
+
+    <materialDesign:Card materialDesign:ShadowAssist.ShadowDepth="Depth3"
+                         Background="{DynamicResource MaterialDesignCardBackground}">
+        
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <!--//search & button//-->
+            <StackPanel>
+                <StackPanel Height="50" Orientation="Horizontal"
+                            Background="{StaticResource MaterialDesignDarkSeparatorBackground}">
+
+                    <StackPanel  Height="30" Width="400"
+                                 Orientation="Horizontal">
+
+                        <materialDesign:PackIcon Kind="Magnify" 
+                                                 Margin="25,0,0,0"
+                                                 Height="30" Width="30"/>
+
+                        <TextBox Margin="15,0,0,0" Width="330" 
+                                 x:Name="txbx_textfilter"   
+                                 materialDesign:HintAssist.Hint="Tìm kiếm"
+                                 TextChanged="txbx_textfilter_TextChanged"/>
+                    </StackPanel>
+
+
+                    <!--button-->
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="btn_save_empl"
+                                    Content="Thêm mới"
+                                    Margin="30,0,0,0"
+                                    Height="30" Width="100"
+                                    FontSize="15" Cursor="Hand"
+                                    Style="{StaticResource MaterialDesignFlatDarkBgButton}"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    Click="btn_save_empl_Click"
+                                    ToolTip="Thêm nhân viên từ dữ liệu nhập"
+                                    />
+
+                        <Button x:Name="btn_clear_empl"
+                                    Content="Làm mới"
+                                    Margin="10,0,0,0"
+                                    Height="30" Width="100"
+                                    FontSize="15" Cursor="Hand"
+                                    Style="{StaticResource MaterialDesignFlatDarkBgButton}"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    Click="btn_clear_empl_Click"
+                                  ToolTip="Làm mới thông tin"
+                                />
+
+                        <Button x:Name="btn_delete_empl"
+                                    Content="Xoá"
+                                    Margin="10,0,0,0"
+                                    Height="30" Width="100"
+                                    FontSize="15" Cursor="Hand"
+                                    Style="{StaticResource MaterialDesignFlatDarkBgButton}"
+                                    materialDesign:ButtonAssist.CornerRadius="10"
+                                    Click="btn_delete_empl_Click"
+                                  ToolTip="Xoá nhân viên đã chọn"
+                                />
+                    </StackPanel>
+
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+
+                <materialDesign:PopupBox PlacementMode="BottomAndAlignRightEdges"
+                                         StaysOpen="False" Cursor="Hand">
+                    <Button x:Name="btn_addimage"
+                            Content="Thêm" Cursor="Hand"
+                            ToolTip="Thêm hình ảnh từ máy"
+                            Click="btn_addimage_Click"></Button>
+                    
+                </materialDesign:PopupBox>
+                <Image x:Name="image_box" 
+                    Height="80" Stretch="Fill"
+                       Width="80"
+                       Margin="20 0 0 0" 
+                       ></Image>
+                
+                <StackPanel Margin="40,0,0,0">
+                    <!--//Ho ten//-->
+                    <TextBox Margin="0 10 0 0"
+                                x:Name="txt_name_empl"
+                                FontSize="12" FontFamily="Consolas"    
+                                Width="150" Height="30"
+                                materialDesign:HintAssist.Hint="Họ tên"
+                                />
+
+                    <!--//SDT//-->
+                    <TextBox Margin="0 10 0 0"
+                                x:Name="txt_phone_empl"
+                                FontSize="12" FontFamily="Consolas"    
+                                Width="150" Height="30"
+                                materialDesign:HintAssist.Hint="Số điện thoại"
+                                Text="{Binding ElementName=list_NhanVien, Path=SelectedItem.SDT,Mode=TwoWay}"
+                                />
+
+                </StackPanel>
+
+                <StackPanel Margin="30,0,0,0">
+                    <!--//Diachi//-->
+                    <TextBox Margin="0 10 0 0"
+                                x:Name="txt_address_empl" TextWrapping="Wrap"
+                                FontSize="12" FontFamily="Consolas"    
+                                Width="150" Height="70"
+                                materialDesign:HintAssist.Hint="Địa chỉ"
+                                />
+                </StackPanel>
+
+                <StackPanel Margin="30,0,0,0">
+                    <!--//Ngay sinh//-->
+                    <DatePicker Margin="0 10 0 0"
+                                x:Name="date_NgaySinh_empl"
+                                FontSize="12" FontFamily="Consolas"    
+                                Width="150" Height="30"
+                                materialDesign:HintAssist.Hint="Ngày sinh"
+                                />
+
+                    <!--//Ngay vao lam//-->
+                    <DatePicker Margin="0 10 0 0"
+                                x:Name="date_NgayVaoLam_empl"
+                                FontSize="12" FontFamily="Consolas"    
+                                Width="150" Height="30"
+                                materialDesign:HintAssist.Hint="Ngày vào làm"
+                                />
+
+
+
+                </StackPanel>
+
+                <StackPanel Margin="30,0,0,0">
+                    <!--//username//-->
+                    <TextBox Margin="0 10 0 0"
+                                x:Name="txt_username_empl"
+                                FontSize="12" FontFamily="Username"    
+                                Width="150" Height="30"
+                                materialDesign:HintAssist.Hint="Username"
+                                />
+
+                    <!--//Password//-->
+                    <PasswordBox Margin="0 10 0 0"
+                                x:Name="txt_password_empl"
+                                FontSize="12" FontFamily="Username"    
+                                Width="150" Height="30"
+                                materialDesign:HintAssist.Hint="Password"
+                                />
+                </StackPanel>
+
+                <ComboBox Margin="30 10 0 0"
+                                x:Name="txt_gioitinh_empl"
+                                FontSize="12" FontFamily="Consolas"    
+                                Width="80" Height="30"
+                                VerticalAlignment="Top"
+                                materialDesign:HintAssist.Hint="Giới tính">
+                    <ComboBoxItem Content="Nam"></ComboBoxItem>
+                    <ComboBoxItem Content="Nữ"></ComboBoxItem>
+                    <ComboBoxItem Content="Khác"></ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            <!--//List//-->
+            <StackPanel Grid.Row="2" >
+                <TextBlock Text="Danh sách nhân viên cửa hàng"
+                       FontSize="25" HorizontalAlignment="Center"
+                       FontFamily="Font\#iCiel Koni Black"></TextBlock>
+                <ScrollViewer Height="370">
+                    <StackPanel>
+                        <StackPanel Margin="0 20 0 0">
+                            <ItemsControl x:Name="ListViewProducts">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+
+                                        <Button x:Name="btn_item" 
+                                                Height="120" Width="310"
+                                                BorderThickness="0"
+                                                Click="btn_item_Click" Margin="5"
+                                                MouseDoubleClick="btn_item_MouseDoubleClick"
+                                               Background="LightGray">
+
+                                            <Border Cursor="Hand">
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Border Width="80" Height="80" CornerRadius="5" Margin="5">
+                                                        <Border.Effect>
+                                                            <DropShadowEffect ShadowDepth="1"/>
+                                                        </Border.Effect>
+                                                        <Border.Background>
+                                                            <ImageBrush ImageSource="{Binding _photourl}"/>
+                                                        </Border.Background>
+                                                    </Border>
+                                                    <StackPanel>
+                                                        <TextBlock Margin="0 5 0 0" Text="{Binding _hoten}" TextWrapping="Wrap" Height="auto" FontSize="18" Foreground="Black" FontFamily="Consolas"/>
+                                                        <StackPanel Orientation="Horizontal">
+
+                                                            <TextBlock Margin="0 5 0 0" Text="{Binding _sdt}" FontSize="10" Foreground="Black" FontFamily="Consolas"/>
+                                                            <TextBlock Margin="20 5 0 0" Text="{Binding _gioitinh}" FontSize="10" 
+                                                                     Foreground="Black" FontFamily="Consolas"
+                                                                      />
+                                                        </StackPanel>
+                                                        <TextBlock Margin="0 5 0 0" Text="{Binding _dchi}" Height="auto" TextWrapping="Wrap" FontSize="10" Foreground="Black" FontFamily="Consolas"/>
+                                                    </StackPanel>
+                                                </StackPanel>
+
+                                            </Border>
+                                            
+                                        </Button>
+                                        
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <WrapPanel/>
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                            </ItemsControl>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+                
+            </StackPanel>
+
+
+        </Grid>
+    </materialDesign:Card>
+    
+</Page>
+    
+    
+    
